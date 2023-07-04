@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API.FurnitureStore.API.props" />
+</Project>
